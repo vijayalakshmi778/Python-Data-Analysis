@@ -1,0 +1,54 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Price,Order_Date,Payment_Mode,Salesperson,Customer_Rating
+1001, Arun Kumar ,Chennai,Laptop,Electronics,1,55000.0,2026-09-01, cash ,Ravi,4.0
+1002,Priya Sharma,chennai,Mouse,Electronics,2,850.0,01/09/2026,UPI,Meena,5.0
+1003,RAHUL VERMA, CHENNAI,Keyboard,Electronics,1,1800.0,2026/09/02,upi,Ravi,4.0
+1004, Divya Raj,Bangalore,Monitor,Electronics,1,12500.0,03-09-2026,Card,Suresh,3.0
+1005,Karthik S,Bengaluru,Office Chair,Furniture,2,6500.0,2026-09-03,CARD ,Meena,5.0
+1006,,Hyderabad,Desk,Furniture,1,8500.0,04/09/2026,Cash,Ravi,4.0
+1007,Vijay Kumar,HYDERABAD,Laptop Stand,Accessories,2,2200.0,2026-09-05,cash,Suresh,4.0
+1008,Anjali Rao,Mumbai,Webcam,Accessories,1,3200.0,05-09-2026,UPI,Meena,5.0
+1009,Manoj Patel,Mumbai,Headphones,Electronics,1,,2026-09-06,upi,Ravi,3.0
+1010, Asha Nair,Pune,Keyboard,Electronics,2,1750.0,2026-09-07,Card,Suresh,4.0
+1011,Rohit Das,pune,Monitor,Electronics,1,11800.0,07/09/2026,cash,Meena,5.0
+1012,Neha Singh,,Office Chair,Furniture,1,6200.0,2026-09-08,UPI,Ravi,4.0
+1013,Arun Kumar,Chennai,Laptop,Electronics,1,55000.0,2026-09-01,Cash,Ravi,4.0
+1014,Pooja Menon,Kochi,Desk,Furniture,1,7800.0,09-09-2026,Card,Suresh,5.0
+1015,Ramesh B,KOCHI,Mouse,Electronics,3,800.0,2026-09-10,UPI,Meena,4.0
+1016,Sanjay Rao,Chennai,Webcam,Accessories,2,3100.0,10/09/2026,Cash,Ravi,3.0
+1017,Lakshmi Devi,Delhi,Headphones,Electronics,1,2900.0,2026/09/11,card,Suresh,
+1018,Ajay Kumar,Delhi,Laptop Stand,Accessories,1,2100.0,11-09-2026,UPI,Meena,5.0
+1019,Meena Krishnan,Hyderabad,Laptop,Electronics,1,56000.0,2026-09-12,Cash,Ravi,4.0
+1020,Varun Shah,Mumbai,Monitor,Electronics,2,12000.0,12/09/2026,Card,Suresh,3.0
+1021,Nithya S,Chennai,Office Chair,Furniture,1,6400.0,2026-09-13,UPI,Meena,5.0
+1022,Rakesh Jain,Bangalore,Desk,Furniture,2,8200.0,13-09-2026,,Ravi,4.0
+1023,Keerthi M,Bengaluru,Keyboard,Electronics,1,1900.0,2026-09-14,UPI,Suresh,4.0
+1024,Suresh Kumar,Hyderabad,Mouse,Electronics,4,820.0,14/09/2026,cash,Meena,5.0
+1025,Pavithra R,Pune,Webcam,Accessories,1,3300.0,2026-09-15,Card,Ravi,4.0
+1026,Gokul Raj,Delhi,Headphones,Electronics,2,2750.0,15-09-2026,UPI,Suresh,3.0
+1027,Ishita Sen,Kolkata,Laptop Stand,Accessories,2,2300.0,2026-09-16,Cash,Meena,5.0
+1028,Deepak Singh,Kolkata,Laptop,Electronics,1,54000.0,16/09/2026,card,Ravi,4.0
+1029,Anu Joseph,Kochi,Monitor,Electronics,1,11900.0,,UPI,Suresh,5.0
+1030,Naveen P,Chennai,Desk,Furniture,1,8000.0,17-09-2026,Cash,Meena,4.0
+1031,Sowmya R,chennai,Office Chair,Furniture,2,6300.0,2026-09-18,UPI,Ravi,5.0
+1032,Hari Krish,Hyderabad,Keyboard,Electronics,1,1850.0,18/09/2026,Card,Suresh,4.0
+1033, Swathi Rao ,Mumbai,Mouse,Electronics,2,900.0,2026/09/19, Cash,Meena,3.0
+1034,Prakash N,Mumbai,Webcam,Accessories,1,3150.0,19-09-2026,UPI,Ravi,4.0
+1035,Geetha S,Pune,Headphones,,1,3000.0,2026-09-20,Card,Suresh,5.0
+1036,Mohan Raj,Delhi,Laptop Stand,Accessories,3,2050.0,20/09/2026,Cash,Meena,4.0
+1037,Riya Kapoor,Kolkata,Monitor,Electronics,1,12100.0,2026-09-21,UPI,Ravi,5.0
+1038,Abhishek T,Kolkata,Laptop,Electronics,1,57000.0,21-09-2026,card,Suresh,4.0
+1039,Farah Khan,Kochi,Desk,Furniture,1,7900.0,2026-09-22,Cash,Meena,5.0
+1040,Naveen P,Chennai,Mouse,Electronics,2,,22/09/2026,UPI,Ravi,4.0
+1041,Divya Raj,Bangalore,Keyboard,Electronics,1,1800.0,2026-09-23,Card,Suresh,3.0
+1042,Siva Kumar,Hyderabad,Office Chair,Furniture,1,6100.0,23-09-2026,cash,Meena,4.0
+1043,Anita Roy,Delhi,Webcam,Accessories,2,3250.0,2026-09-24,UPI,Ravi,5.0
+1044,Rahul Verma,CHENNAI,Laptop,Electronics,1,55500.0,24/09/2026,CARD,Suresh,4.0
+1045,Priya Sharma,Chennai,Monitor,Electronics,1,12300.0,2026-09-25,upi,Meena,5.0
+1046,Kiran B,Pune,Desk,Furniture,1,8100.0,25-09-2026,Cash,Ravi,
+1047,Rohit Das,Pune,Headphones,Electronics,2,2850.0,2026/09/26,Card,Suresh,3.0
+1048,Asha Nair,,Laptop Stand,Accessories,1,2150.0,26-09-2026,UPI,Meena,5.0
+1049,Maya S,Kochi,Mouse,Electronics,2,780.0,2026-09-27,Cash,Ravi,4.0
+1050,Vikram J,Bengaluru,Office Chair,Furniture,1,6600.0,27/09/2026,Card,Suresh,5.0
+1003,RAHUL VERMA, CHENNAI,Keyboard,Electronics,1,1800.0,2026/09/02,upi,Ravi,4.0
+1015,Ramesh B,KOCHI,Mouse,Electronics,3,800.0,2026-09-10,UPI,Meena,4.0
+1010,Rohit Das,Pune,Keyboard,Electronics,2,1750.0,2026-09-07,Card,Suresh,4.0
