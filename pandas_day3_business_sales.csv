@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer_Name,City,Region,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Salesperson,Payment_Mode,Customer_Segment,Customer_Rating
+ORD0001,2026-08-03,Customer_075,Hyderabad,South,Desk,Furniture,4,13401,0.1,48243.6,34912.83,13330.77,Rahul,Net Banking,Enterprise,3.5
+ORD0002,2026-06-10,Customer_076,Mumbai,West,Office Chair,Furniture,5,10214,0.15,43409.5,27389.72,16019.78,Priya,Net Banking,Consumer,3.5
+ORD0003,2026-06-24,Customer_062,Pune,West,Laptop,Electronics,3,55984,0.0,167952.0,109188.07,58763.93,Rahul,Cash,Enterprise,4.0
+ORD0004,2026-03-30,Customer_060,Puducherry,South,Mouse,Accessories,1,1112,0.1,1000.8,621.42,379.38,Sneha,Credit Card,Small Business,3.0
+ORD0005,2026-09-21,Customer_047,Mumbai,West,Laptop,Electronics,2,51459,0.1,92626.2,63507.91,29118.29,Rahul,UPI,Small Business,3.5
+ORD0006,2026-08-06,Customer_044,Delhi,North,Webcam,Electronics,4,4073,0.05,15477.4,11007.69,4469.71,Priya,Credit Card,Small Business,3.5
+ORD0007,2026-08-01,Customer_080,Pune,West,Mouse,Accessories,6,1243,0.05,7085.1,5079.35,2005.75,Karthik,Credit Card,Enterprise,4.5
+ORD0008,2026-03-06,Customer_089,Mumbai,West,Headset,Accessories,2,2363,0.1,4253.4,2748.72,1504.68,Arun,UPI,Enterprise,4.0
+ORD0009,2026-02-10,Customer_028,Delhi,North,Keyboard,Accessories,3,2582,0.1,6971.4,5333.85,1637.55,Arun,Cash,Small Business,3.0
+ORD0010,2026-02-04,Customer_065,Hyderabad,South,Laptop,Electronics,7,53336,0.05,354684.4,267824.14,86860.26,Rahul,Net Banking,Enterprise,4.5
+ORD0011,2026-07-26,Customer_015,Chennai,South,Office Chair,Furniture,3,9896,0.05,28203.6,21576.66,6626.94,Priya,Credit Card,Consumer,4.0
+ORD0012,2026-08-19,Customer_015,Mumbai,West,Keyboard,Accessories,7,2658,0.05,17675.7,12641.42,5034.28,Rahul,Net Banking,Consumer,4.5
+ORD0013,2026-05-14,Customer_028,Chennai,South,Webcam,Electronics,7,4058,0.0,28406.0,22813.64,5592.36,Divya,Cash,Small Business,5.0
+ORD0014,2026-05-01,Customer_077,Chennai,South,Office Chair,Furniture,3,9233,0.0,27699.0,18434.0,9265.0,Arun,Debit Card,Enterprise,5.0
+ORD0015,2026-06-09,Customer_096,Delhi,North,Office Chair,Furniture,3,9374,0.0,28122.0,17119.76,11002.24,Arun,Cash,Consumer,4.0
+ORD0016,2026-04-23,Customer_056,Mumbai,West,Office Chair,Furniture,1,9125,0.0,9125.0,6817.41,2307.59,Arun,Debit Card,Consumer,4.5
+ORD0017,2026-05-10,Customer_053,Pune,West,Monitor,Electronics,2,17743,0.0,35486.0,23520.73,11965.27,Divya,Credit Card,Small Business,4.5
+ORD0018,2026-04-08,Customer_070,Kochi,South,Webcam,Electronics,7,4315,0.1,27184.5,17317.42,9867.08,Sneha,Debit Card,Enterprise,4.5
+ORD0019,2026-05-27,Customer_020,Puducherry,South,Webcam,Electronics,1,3965,0.05,3766.75,2813.74,953.01,Divya,UPI,Consumer,5.0
+ORD0020,2026-04-09,Customer_007,Delhi,North,Webcam,Electronics,7,4493,0.0,31451.0,20816.03,10634.97,Divya,Credit Card,Consumer,3.5
+ORD0021,2026-01-09,Customer_099,Kochi,South,Mouse,Accessories,4,1154,0.2,3692.8,2997.45,695.35,Rahul,Debit Card,Small Business,4.5
+ORD0022,2026-09-11,Customer_099,Puducherry,South,Webcam,Electronics,1,4295,0.0,4295.0,2657.71,1637.29,Sneha,UPI,Enterprise,5.0
+ORD0023,2026-06-18,Customer_100,Mumbai,West,Laptop,Electronics,5,53098,0.05,252215.5,175680.03,76535.47,Arun,Cash,Consumer,4.0
+ORD0024,2026-02-02,Customer_048,Kochi,South,Office Chair,Furniture,5,9011,0.05,42802.25,32469.83,10332.42,Divya,Debit Card,Enterprise,4.5
+ORD0025,2026-01-27,Customer_098,Kochi,South,Office Chair,Furniture,7,9120,0.05,60648.0,49424.13,11223.87,Karthik,UPI,Enterprise,4.0
+ORD0026,2026-01-17,Customer_044,Chennai,South,Webcam,Electronics,1,3995,0.1,3595.5,2327.67,1267.83,Divya,Net Banking,Small Business,3.0
+ORD0027,2026-04-05,Customer_099,Mumbai,West,Headset,Accessories,6,2154,0.0,12924.0,10375.34,2548.66,Divya,UPI,Enterprise,4.0
+ORD0028,2026-08-11,Customer_054,Bengaluru,South,Headset,Accessories,5,2091,0.0,10455.0,7281.56,3173.44,Priya,Debit Card,Small Business,4.0
+ORD0029,2026-09-30,Customer_033,Bengaluru,South,Webcam,Electronics,2,4277,0.2,6843.2,4199.13,2644.07,Arun,Debit Card,Small Business,4.5
+ORD0030,2026-02-05,Customer_045,Mumbai,West,Webcam,Electronics,7,4061,0.1,25584.3,19813.18,5771.12,Divya,UPI,Small Business,5.0
+ORD0031,2026-02-20,Customer_025,Delhi,North,Webcam,Electronics,6,4462,0.05,25433.4,17043.94,8389.46,Priya,Net Banking,Small Business,3.5
+ORD0032,2026-04-11,Customer_097,Puducherry,South,Monitor,Electronics,2,16647,0.0,33294.0,25883.56,7410.44,Karthik,Cash,Consumer,4.0
+ORD0033,2026-05-24,Customer_013,Kochi,South,Desk,Furniture,4,13184,0.0,52736.0,35793.24,16942.76,Priya,Cash,Small Business,4.5
+ORD0034,2026-04-27,Customer_062,Mumbai,West,Office Chair,Furniture,3,9948,0.0,29844.0,20453.68,9390.32,Arun,Cash,Consumer,3.0
+ORD0035,2026-08-25,Customer_001,Chennai,South,Laptop,Electronics,2,58653,0.05,111440.7,71048.9,40391.8,Karthik,Net Banking,Small Business,3.5
+ORD0036,2026-08-08,Customer_069,Mumbai,West,Headset,Accessories,7,2040,0.05,13566.0,8384.81,5181.19,Arun,Cash,Consumer,3.5
+ORD0037,2026-01-23,Customer_010,Mumbai,West,Mouse,Accessories,2,1250,0.1,2250.0,1492.0,758.0,Sneha,Net Banking,Small Business,4.0
+ORD0038,2026-01-04,Customer_016,Mumbai,West,Mouse,Accessories,7,1106,0.15,6580.7,4608.13,1972.57,Priya,UPI,Enterprise,4.5
+ORD0039,2026-09-25,Customer_067,Mumbai,West,Mouse,Accessories,4,1178,0.1,4240.8,2926.07,1314.73,Arun,UPI,Small Business,4.5
+ORD0040,2026-02-04,Customer_087,Bengaluru,South,Keyboard,Accessories,4,2409,0.0,9636.0,6461.34,3174.66,Arun,Credit Card,Consumer,3.0
+ORD0041,2026-04-24,Customer_075,Mumbai,West,Monitor,Electronics,2,16627,0.1,29928.6,19383.11,10545.49,Karthik,Cash,Consumer,3.5
+ORD0042,2026-04-09,Customer_036,Chennai,South,Headset,Accessories,5,2123,0.0,10615.0,8068.97,2546.03,Priya,UPI,Enterprise,5.0
+ORD0043,2026-09-30,Customer_062,Chennai,South,Webcam,Electronics,7,4489,0.15,26709.55,18241.52,8468.03,Divya,UPI,Small Business,4.5
+ORD0044,2026-07-25,Customer_095,Chennai,South,Headset,Accessories,3,2059,0.0,6177.0,5003.68,1173.32,Divya,Debit Card,Small Business,5.0
+ORD0045,2026-05-31,Customer_016,Mumbai,West,Desk,Furniture,5,11683,0.1,52573.5,37479.06,15094.44,Arun,Net Banking,Consumer,4.0
+ORD0046,2026-05-26,Customer_076,Hyderabad,South,Monitor,Electronics,2,16725,0.05,31777.5,21798.33,9979.17,Arun,Credit Card,Small Business,5.0
+ORD0047,2026-05-02,Customer_066,Bengaluru,South,Mouse,Accessories,1,1123,0.0,1123.0,840.27,282.73,Karthik,Net Banking,Consumer,3.0
+ORD0048,2026-08-05,Customer_045,Delhi,North,Office Chair,Furniture,3,9623,0.15,24538.65,19417.1,5121.55,Divya,Cash,Small Business,4.0
+ORD0049,2026-02-08,Customer_067,Hyderabad,South,Mouse,Accessories,7,1196,0.05,7953.4,5958.85,1994.55,Karthik,Net Banking,Small Business,4.0
+ORD0050,2026-07-09,Customer_063,Chennai,South,Mouse,Accessories,6,1114,0.0,6684.0,4065.25,2618.75,Divya,UPI,Consumer,4.5
+ORD0051,2026-05-29,Customer_080,Mumbai,West,Webcam,Electronics,1,4014,0.2,3211.2,1871.86,1339.34,Sneha,Net Banking,Enterprise,5.0
+ORD0052,2026-01-14,Customer_015,Chennai,South,Mouse,Accessories,5,1152,0.1,5184.0,3100.57,2083.43,Arun,Net Banking,Small Business,3.5
+ORD0053,2026-06-05,Customer_008,Kochi,South,Office Chair,Furniture,3,10109,0.0,30327.0,19634.64,10692.36,Priya,Cash,Small Business,5.0
+ORD0054,2026-05-25,Customer_073,Hyderabad,South,Webcam,Electronics,2,4018,0.0,8036.0,5355.86,2680.14,Arun,Net Banking,Consumer,4.0
+ORD0055,2026-01-10,Customer_056,Mumbai,West,Mouse,Accessories,5,1129,0.0,5645.0,4548.33,1096.67,Sneha,Credit Card,Enterprise,4.0
+ORD0056,2026-09-24,Customer_085,Chennai,South,Headset,Accessories,5,2033,0.05,9656.75,7479.47,2177.28,Priya,UPI,Small Business,5.0
+ORD0057,2026-01-06,Customer_092,Mumbai,West,Keyboard,Accessories,3,2527,0.0,7581.0,4463.98,3117.02,Arun,Net Banking,Enterprise,3.5
+ORD0058,2026-05-25,Customer_085,Hyderabad,South,Headset,Accessories,6,2345,0.05,13366.5,10081.94,3284.56,Sneha,UPI,Small Business,4.5
+ORD0059,2026-04-05,Customer_072,Bengaluru,South,Laptop,Electronics,3,53017,0.0,159051.0,125773.23,33277.77,Priya,Credit Card,Small Business,4.5
+ORD0060,2026-08-10,Customer_057,Pune,West,Office Chair,Furniture,6,10003,0.05,57017.1,44241.43,12775.67,Arun,Net Banking,Consumer,5.0
+ORD0061,2026-04-08,Customer_082,Bengaluru,South,Office Chair,Furniture,2,9963,0.15,16937.1,12332.64,4604.46,Sneha,Debit Card,Enterprise,5.0
+ORD0062,2026-04-16,Customer_051,Delhi,North,Desk,Furniture,2,12196,0.05,23172.4,17798.18,5374.22,Arun,Net Banking,Consumer,4.0
+ORD0063,2026-09-19,Customer_053,Bengaluru,South,Mouse,Accessories,2,1281,0.05,2433.9,1562.51,871.39,Priya,Net Banking,Small Business,4.0
+ORD0064,2026-01-08,Customer_004,Delhi,North,Keyboard,Accessories,3,2396,0.0,7188.0,4391.37,2796.63,Divya,UPI,Enterprise,3.5
+ORD0065,2026-01-05,Customer_082,Mumbai,West,Webcam,Electronics,3,4210,0.2,10104.0,7319.99,2784.01,Divya,Credit Card,Consumer,4.0
+ORD0066,2026-03-19,Customer_090,Chennai,South,Office Chair,Furniture,5,9574,0.05,45476.5,30261.79,15214.71,Karthik,Debit Card,Consumer,5.0
+ORD0067,2026-03-02,Customer_081,Kochi,South,Monitor,Electronics,1,17945,0.1,16150.5,11350.53,4799.97,Priya,Cash,Consumer,3.5
+ORD0068,2026-01-28,Customer_087,Pune,West,Webcam,Electronics,1,4265,0.2,3412.0,2418.36,993.64,Sneha,Credit Card,Consumer,5.0
+ORD0069,2026-08-27,Customer_018,Hyderabad,South,Monitor,Electronics,6,16985,0.0,101910.0,75914.77,25995.23,Priya,Debit Card,Enterprise,5.0
+ORD0070,2026-05-06,Customer_044,Pune,West,Desk,Furniture,1,12974,0.0,12974.0,9280.97,3693.03,Arun,UPI,Consumer,5.0
+ORD0071,2026-02-03,Customer_008,Delhi,North,Mouse,Accessories,1,1234,0.1,1110.6,777.0,333.6,Arun,Cash,Enterprise,3.5
+ORD0072,2026-08-17,Customer_033,Hyderabad,South,Monitor,Electronics,1,17531,0.15,14901.35,10815.6,4085.75,Karthik,Net Banking,Small Business,4.0
+ORD0073,2026-05-17,Customer_003,Kochi,South,Office Chair,Furniture,7,9481,0.15,56411.95,33908.83,22503.12,Rahul,Net Banking,Enterprise,5.0
+ORD0074,2026-03-03,Customer_057,Pune,West,Office Chair,Furniture,2,9615,0.15,16345.5,9501.18,6844.32,Priya,Debit Card,Small Business,5.0
+ORD0075,2026-01-20,Customer_012,Chennai,South,Keyboard,Accessories,5,2607,0.0,13035.0,8572.9,4462.1,Arun,Credit Card,Small Business,4.0
+ORD0076,2026-06-27,Customer_010,Chennai,South,Webcam,Electronics,6,4254,0.0,25524.0,17751.27,7772.73,Karthik,Credit Card,Small Business,4.5
+ORD0077,2026-02-07,Customer_035,Delhi,North,Headset,Accessories,2,2054,0.0,4108.0,2385.31,1722.69,Sneha,UPI,Consumer,3.5
+ORD0078,2026-02-04,Customer_001,Puducherry,South,Office Chair,Furniture,4,10206,0.0,40824.0,30838.78,9985.22,Sneha,Cash,Consumer,5.0
+ORD0079,2026-03-19,Customer_026,Mumbai,West,Webcam,Electronics,3,4398,0.0,13194.0,8170.75,5023.25,Sneha,Cash,Consumer,3.5
+ORD0080,2026-05-05,Customer_038,Hyderabad,South,Headset,Accessories,2,2162,0.1,3891.6,2667.27,1224.33,Arun,UPI,Consumer,4.0
+ORD0081,2026-07-17,Customer_006,Delhi,North,Laptop,Electronics,1,54045,0.05,51342.75,30599.69,20743.06,Rahul,Debit Card,Small Business,4.0
+ORD0082,2026-06-06,Customer_038,Puducherry,South,Webcam,Electronics,4,4397,0.1,15829.2,11207.56,4621.64,Arun,UPI,Consumer,5.0
+ORD0083,2026-04-28,Customer_038,Hyderabad,South,Headset,Accessories,3,2285,0.0,6855.0,4913.48,1941.52,Karthik,Cash,Consumer,4.5
+ORD0084,2026-06-22,Customer_002,Puducherry,South,Webcam,Electronics,4,4130,0.1,14868.0,9158.39,5709.61,Rahul,Debit Card,Enterprise,4.0
+ORD0085,2026-02-07,Customer_006,Kochi,South,Mouse,Accessories,4,1241,0.05,4715.8,3670.93,1044.87,Priya,Debit Card,Small Business,5.0
+ORD0086,2026-05-13,Customer_037,Puducherry,South,Headset,Accessories,6,2059,0.0,12354.0,9318.16,3035.84,Priya,UPI,Enterprise,4.5
+ORD0087,2026-09-14,Customer_046,Delhi,North,Monitor,Electronics,1,17781,0.1,16002.9,12870.3,3132.6,Karthik,Net Banking,Small Business,5.0
+ORD0088,2026-05-29,Customer_047,Kochi,South,Office Chair,Furniture,4,8929,0.15,30358.6,23946.11,6412.49,Arun,Net Banking,Consumer,4.5
+ORD0089,2026-03-16,Customer_038,Bengaluru,South,Monitor,Electronics,4,18828,0.1,67780.8,41171.69,26609.11,Priya,Credit Card,Enterprise,4.0
+ORD0090,2026-01-25,Customer_071,Kochi,South,Monitor,Electronics,3,17862,0.0,53586.0,36898.54,16687.46,Divya,Net Banking,Consumer,3.5
+ORD0091,2026-03-25,Customer_049,Delhi,North,Laptop,Electronics,5,55709,0.1,250690.5,146188.33,104502.17,Divya,Cash,Enterprise,4.5
+ORD0092,2026-07-30,Customer_062,Kochi,South,Headset,Accessories,1,2129,0.05,2022.55,1365.94,656.61,Sneha,Net Banking,Consumer,4.0
+ORD0093,2026-07-13,Customer_092,Delhi,North,Headset,Accessories,5,2190,0.05,10402.5,6197.5,4205.0,Arun,Credit Card,Small Business,4.5
+ORD0094,2026-09-23,Customer_074,Kochi,South,Office Chair,Furniture,3,8975,0.0,26925.0,21185.36,5739.64,Rahul,Credit Card,Consumer,5.0
+ORD0095,2026-09-12,Customer_072,Delhi,North,Desk,Furniture,7,11812,0.1,74415.6,54929.26,19486.34,Sneha,UPI,Enterprise,3.0
+ORD0096,2026-03-19,Customer_032,Kochi,South,Headset,Accessories,3,2336,0.05,6657.6,5013.14,1644.46,Sneha,Debit Card,Consumer,5.0
+ORD0097,2026-05-31,Customer_085,Chennai,South,Office Chair,Furniture,5,9357,0.05,44445.75,26705.76,17739.99,Rahul,Net Banking,Enterprise,4.5
+ORD0098,2026-07-14,Customer_087,Bengaluru,South,Mouse,Accessories,5,1184,0.15,5032.0,3905.77,1126.23,Divya,Cash,Consumer,4.0
+ORD0099,2026-03-22,Customer_074,Bengaluru,South,Headset,Accessories,6,2296,0.05,13087.2,10295.13,2792.07,Sneha,Debit Card,Small Business,4.0
+ORD0100,2026-07-20,Customer_022,Chennai,South,Desk,Furniture,1,12469,0.05,11845.55,8978.98,2866.57,Rahul,Cash,Small Business,4.5
+ORD0101,2026-02-11,Customer_100,Mumbai,West,Monitor,Electronics,5,17054,0.0,85270.0,49832.96,35437.04,Arun,Credit Card,Consumer,5.0
+ORD0102,2026-05-14,Customer_091,Hyderabad,South,Headset,Accessories,1,2199,0.1,1979.1,1198.5,780.6,Priya,Cash,Consumer,3.5
+ORD0103,2026-02-15,Customer_064,Bengaluru,South,Laptop,Electronics,5,52143,0.15,221607.75,150805.17,70802.58,Priya,Cash,Small Business,4.0
+ORD0104,2026-01-11,Customer_036,Kochi,South,Keyboard,Accessories,1,2333,0.1,2099.7,1341.46,758.24,Arun,Debit Card,Enterprise,4.0
+ORD0105,2026-09-07,Customer_036,Kochi,South,Webcam,Electronics,3,4501,0.05,12827.85,10377.49,2450.36,Divya,Debit Card,Enterprise,3.5
+ORD0106,2026-03-14,Customer_073,Bengaluru,South,Mouse,Accessories,3,1266,0.2,3038.4,1875.06,1163.34,Arun,UPI,Consumer,4.5
+ORD0107,2026-06-21,Customer_051,Puducherry,South,Headset,Accessories,3,2234,0.05,6366.9,3808.83,2558.07,Sneha,Credit Card,Enterprise,3.0
+ORD0108,2026-01-12,Customer_062,Chennai,South,Headset,Accessories,4,2308,0.2,7385.6,5683.98,1701.62,Rahul,Net Banking,Consumer,4.5
+ORD0109,2026-02-28,Customer_026,Delhi,North,Desk,Furniture,5,12884,0.15,54757.0,35040.12,19716.88,Arun,Net Banking,Small Business,4.0
+ORD0110,2026-09-27,Customer_079,Delhi,North,Desk,Furniture,2,12676,0.2,20281.6,14468.76,5812.84,Karthik,UPI,Enterprise,4.0
+ORD0111,2026-04-13,Customer_017,Hyderabad,South,Webcam,Electronics,2,4147,0.1,7464.6,5664.25,1800.35,Sneha,Debit Card,Consumer,3.0
+ORD0112,2026-01-04,Customer_093,Delhi,North,Monitor,Electronics,3,18565,0.05,52910.25,39891.37,13018.88,Sneha,UPI,Consumer,3.0
+ORD0113,2026-02-03,Customer_030,Bengaluru,South,Monitor,Electronics,1,19111,0.1,17199.9,10937.59,6262.31,Rahul,Net Banking,Consumer,3.0
+ORD0114,2026-09-02,Customer_057,Pune,West,Monitor,Electronics,3,16761,0.0,50283.0,29799.92,20483.08,Divya,UPI,Small Business,3.5
+ORD0115,2026-05-22,Customer_030,Mumbai,West,Office Chair,Furniture,1,9251,0.05,8788.45,6641.83,2146.62,Priya,Cash,Small Business,3.0
+ORD0116,2026-05-20,Customer_059,Chennai,South,Office Chair,Furniture,5,8803,0.0,44015.0,35962.6,8052.4,Priya,Net Banking,Consumer,4.0
+ORD0117,2026-08-14,Customer_025,Pune,West,Headset,Accessories,3,2231,0.2,5354.4,4241.8,1112.6,Divya,Cash,Enterprise,4.5
+ORD0118,2026-08-14,Customer_057,Hyderabad,South,Webcam,Electronics,4,4427,0.0,17708.0,13800.8,3907.2,Priya,UPI,Consumer,3.5
+ORD0119,2026-04-09,Customer_020,Chennai,South,Monitor,Electronics,3,18939,0.1,51135.3,37387.41,13747.89,Priya,UPI,Consumer,4.0
+ORD0120,2026-09-26,Customer_089,Hyderabad,South,Keyboard,Accessories,2,2506,0.05,4761.4,3900.16,861.24,Arun,Cash,Small Business,5.0
+ORD0121,2026-08-14,Customer_076,Hyderabad,South,Headset,Accessories,2,2185,0.05,4151.5,2679.84,1471.66,Priya,UPI,Enterprise,4.0
+ORD0122,2026-09-08,Customer_005,Kochi,South,Webcam,Electronics,1,4234,0.0,4234.0,2870.77,1363.23,Priya,Credit Card,Small Business,4.0
+ORD0123,2026-08-12,Customer_062,Mumbai,West,Headset,Accessories,4,2062,0.15,7010.8,5734.51,1276.29,Karthik,Debit Card,Small Business,3.0
+ORD0124,2026-06-17,Customer_092,Kochi,South,Keyboard,Accessories,2,2517,0.15,4278.9,3235.44,1043.46,Arun,Debit Card,Enterprise,4.5
+ORD0125,2026-07-07,Customer_007,Hyderabad,South,Webcam,Electronics,1,4088,0.0,4088.0,3283.57,804.43,Karthik,Debit Card,Consumer,3.5
+ORD0126,2026-02-08,Customer_031,Pune,West,Monitor,Electronics,1,16644,0.15,14147.4,8643.05,5504.35,Priya,Cash,Small Business,4.0
+ORD0127,2026-08-21,Customer_017,Chennai,South,Office Chair,Furniture,5,9511,0.0,47555.0,30857.92,16697.08,Priya,Cash,Consumer,4.5
+ORD0128,2026-03-01,Customer_079,Puducherry,South,Keyboard,Accessories,6,2413,0.0,14478.0,9899.16,4578.84,Sneha,Net Banking,Consumer,5.0
+ORD0129,2026-07-12,Customer_022,Puducherry,South,Office Chair,Furniture,4,9004,0.1,32414.4,26169.81,6244.59,Priya,Debit Card,Small Business,3.5
+ORD0130,2026-01-07,Customer_029,Mumbai,West,Monitor,Electronics,6,19363,0.2,92942.4,70628.46,22313.94,Rahul,UPI,Small Business,3.5
+ORD0131,2026-01-04,Customer_081,Bengaluru,South,Desk,Furniture,7,13137,0.0,91959.0,53358.94,38600.06,Rahul,Net Banking,Consumer,3.5
+ORD0132,2026-03-25,Customer_022,Pune,West,Desk,Furniture,7,13089,0.1,82460.7,52196.36,30264.34,Rahul,Debit Card,Enterprise,3.5
+ORD0133,2026-03-25,Customer_006,Hyderabad,South,Laptop,Electronics,6,51929,0.05,295995.3,238710.68,57284.62,Rahul,UPI,Consumer,4.0
+ORD0134,2026-01-12,Customer_018,Kochi,South,Keyboard,Accessories,3,2463,0.15,6280.65,3989.4,2291.25,Divya,Debit Card,Small Business,4.0
+ORD0135,2026-06-30,Customer_024,Delhi,North,Laptop,Electronics,1,51402,0.0,51402.0,35410.14,15991.86,Divya,Credit Card,Enterprise,4.5
+ORD0136,2026-08-16,Customer_009,Puducherry,South,Mouse,Accessories,6,1192,0.0,7152.0,5175.18,1976.82,Sneha,UPI,Enterprise,4.5
+ORD0137,2026-03-13,Customer_021,Chennai,South,Office Chair,Furniture,6,9235,0.05,52639.5,36004.32,16635.18,Priya,Credit Card,Small Business,5.0
+ORD0138,2026-09-24,Customer_086,Chennai,South,Desk,Furniture,7,12943,0.1,81540.9,62109.23,19431.67,Rahul,UPI,Consumer,5.0
+ORD0139,2026-07-21,Customer_040,Chennai,South,Mouse,Accessories,1,1213,0.0,1213.0,843.96,369.04,Priya,Cash,Consumer,4.0
+ORD0140,2026-04-13,Customer_066,Pune,West,Monitor,Electronics,1,16813,0.05,15972.35,9391.24,6581.11,Sneha,Credit Card,Small Business,3.0
+ORD0141,2026-05-03,Customer_006,Mumbai,West,Monitor,Electronics,2,18925,0.0,37850.0,28042.78,9807.22,Arun,UPI,Enterprise,5.0
+ORD0142,2026-04-21,Customer_007,Pune,West,Desk,Furniture,1,12918,0.15,10980.3,8250.39,2729.91,Rahul,Cash,Small Business,5.0
+ORD0143,2026-01-12,Customer_087,Hyderabad,South,Monitor,Electronics,6,17862,0.1,96454.8,68129.56,28325.24,Divya,Net Banking,Consumer,4.5
+ORD0144,2026-07-02,Customer_032,Delhi,North,Headset,Accessories,3,2101,0.2,5042.4,3332.3,1710.1,Rahul,Cash,Small Business,3.5
+ORD0145,2026-07-21,Customer_035,Puducherry,South,Office Chair,Furniture,2,9732,0.05,18490.8,13132.07,5358.73,Karthik,Net Banking,Small Business,4.0
+ORD0146,2026-01-24,Customer_020,Mumbai,West,Desk,Furniture,7,12015,0.05,79899.75,62991.8,16907.95,Karthik,Cash,Small Business,4.5
+ORD0147,2026-08-16,Customer_066,Mumbai,West,Mouse,Accessories,4,1111,0.15,3777.4,2715.51,1061.89,Priya,Cash,Small Business,4.0
+ORD0148,2026-02-09,Customer_021,Bengaluru,South,Desk,Furniture,2,13484,0.0,26968.0,17965.98,9002.02,Arun,Debit Card,Small Business,4.0
+ORD0149,2026-02-10,Customer_062,Delhi,North,Webcam,Electronics,4,4474,0.0,17896.0,11399.94,6496.06,Sneha,Cash,Consumer,5.0
+ORD0150,2026-01-28,Customer_066,Hyderabad,South,Desk,Furniture,6,12529,0.05,71415.3,51583.86,19831.44,Rahul,Net Banking,Consumer,3.5
+ORD0151,2026-01-10,Customer_067,Hyderabad,South,Desk,Furniture,1,13046,0.0,13046.0,10603.23,2442.77,Sneha,Credit Card,Consumer,4.0
+ORD0152,2026-03-05,Customer_084,Chennai,South,Monitor,Electronics,4,18947,0.05,71998.6,46056.89,25941.71,Divya,UPI,Enterprise,4.5
+ORD0153,2026-07-26,Customer_006,Puducherry,South,Headset,Accessories,7,2257,0.05,15009.05,11746.1,3262.95,Divya,Debit Card,Consumer,5.0
+ORD0154,2026-04-29,Customer_035,Chennai,South,Mouse,Accessories,2,1293,0.0,2586.0,1643.33,942.67,Sneha,Net Banking,Consumer,3.0
+ORD0155,2026-08-04,Customer_043,Bengaluru,South,Keyboard,Accessories,5,2341,0.05,11119.75,8286.1,2833.65,Sneha,Credit Card,Consumer,4.0
+ORD0156,2026-05-31,Customer_045,Puducherry,South,Monitor,Electronics,5,19059,0.05,90530.25,63710.03,26820.22,Divya,Credit Card,Small Business,4.0
+ORD0157,2026-01-05,Customer_086,Pune,West,Mouse,Accessories,7,1135,0.0,7945.0,6001.65,1943.35,Priya,UPI,Enterprise,3.5
+ORD0158,2026-08-20,Customer_076,Delhi,North,Desk,Furniture,2,12248,0.0,24496.0,15643.03,8852.97,Rahul,UPI,Small Business,5.0
+ORD0159,2026-03-31,Customer_062,Chennai,South,Mouse,Accessories,1,1219,0.15,1036.15,806.58,229.57,Divya,Credit Card,Small Business,4.5
+ORD0160,2026-03-18,Customer_031,Mumbai,West,Webcam,Electronics,6,4077,0.15,20792.7,17016.76,3775.94,Arun,Debit Card,Small Business,4.5
+ORD0161,2026-05-09,Customer_088,Chennai,South,Headset,Accessories,6,2139,0.1,11550.6,8938.81,2611.79,Sneha,UPI,Consumer,4.5
+ORD0162,2026-08-12,Customer_035,Chennai,South,Desk,Furniture,1,12232,0.05,11620.4,8679.42,2940.98,Divya,Credit Card,Enterprise,4.0
+ORD0163,2026-04-27,Customer_093,Kochi,South,Keyboard,Accessories,6,2557,0.1,13807.8,9666.94,4140.86,Priya,UPI,Consumer,4.5
+ORD0164,2026-01-21,Customer_023,Pune,West,Monitor,Electronics,5,17268,0.05,82023.0,55336.63,26686.37,Rahul,Net Banking,Enterprise,4.5
+ORD0165,2026-02-21,Customer_027,Bengaluru,South,Laptop,Electronics,4,58757,0.0,235028.0,189024.71,46003.29,Karthik,Cash,Enterprise,4.0
+ORD0166,2026-09-20,Customer_095,Chennai,South,Webcam,Electronics,2,4274,0.1,7693.2,4965.42,2727.78,Divya,Credit Card,Enterprise,4.0
+ORD0167,2026-03-25,Customer_068,Puducherry,South,Headset,Accessories,7,2273,0.0,15911.0,11394.74,4516.26,Sneha,UPI,Consumer,4.0
+ORD0168,2026-01-26,Customer_009,Chennai,South,Monitor,Electronics,7,19300,0.1,121590.0,94427.44,27162.56,Priya,Credit Card,Consumer,5.0
+ORD0169,2026-06-01,Customer_019,Bengaluru,South,Headset,Accessories,2,2340,0.05,4446.0,2831.43,1614.57,Divya,Cash,Enterprise,5.0
+ORD0170,2026-02-18,Customer_099,Delhi,North,Monitor,Electronics,1,16835,0.1,15151.5,10430.66,4720.84,Divya,Credit Card,Consumer,4.5
+ORD0171,2026-01-11,Customer_010,Kochi,South,Desk,Furniture,5,11691,0.0,58455.0,42910.25,15544.75,Arun,Net Banking,Consumer,4.5
+ORD0172,2026-05-05,Customer_039,Bengaluru,South,Laptop,Electronics,6,51847,0.0,311082.0,225002.89,86079.11,Arun,UPI,Enterprise,4.5
+ORD0173,2026-02-05,Customer_097,Mumbai,West,Desk,Furniture,4,13137,0.1,47293.2,31257.71,16035.49,Divya,Debit Card,Consumer,5.0
+ORD0174,2026-01-05,Customer_044,Bengaluru,South,Webcam,Electronics,1,4016,0.05,3815.2,2276.38,1538.82,Rahul,Net Banking,Small Business,4.5
+ORD0175,2026-08-03,Customer_044,Bengaluru,South,Webcam,Electronics,2,4321,0.0,8642.0,5959.92,2682.08,Priya,UPI,Enterprise,3.5
+ORD0176,2026-07-27,Customer_062,Mumbai,West,Monitor,Electronics,7,17899,0.0,125293.0,89578.39,35714.61,Sneha,UPI,Enterprise,5.0
+ORD0177,2026-04-25,Customer_005,Mumbai,West,Webcam,Electronics,4,4097,0.1,14749.2,11370.28,3378.92,Divya,Cash,Consumer,5.0
+ORD0178,2026-09-29,Customer_076,Chennai,South,Laptop,Electronics,6,55184,0.1,297993.6,179210.33,118783.27,Sneha,Cash,Small Business,4.5
+ORD0179,2026-09-06,Customer_073,Bengaluru,South,Headset,Accessories,6,2065,0.0,12390.0,8202.2,4187.8,Arun,Debit Card,Enterprise,4.0
+ORD0180,2026-05-23,Customer_086,Hyderabad,South,Mouse,Accessories,6,1189,0.1,6420.6,4518.58,1902.02,Divya,Net Banking,Small Business,5.0
+ORD0181,2026-06-07,Customer_078,Bengaluru,South,Mouse,Accessories,7,1180,0.05,7847.0,5733.87,2113.13,Sneha,Debit Card,Enterprise,4.5
+ORD0182,2026-07-25,Customer_020,Bengaluru,South,Mouse,Accessories,6,1119,0.05,6378.3,3965.04,2413.26,Priya,Credit Card,Consumer,4.5
+ORD0183,2026-08-26,Customer_052,Kochi,South,Monitor,Electronics,1,17940,0.05,17043.0,12365.19,4677.81,Rahul,Debit Card,Consumer,3.5
+ORD0184,2026-03-09,Customer_045,Delhi,North,Office Chair,Furniture,1,9752,0.0,9752.0,6775.46,2976.54,Divya,Cash,Consumer,4.5
+ORD0185,2026-09-11,Customer_002,Hyderabad,South,Desk,Furniture,6,13252,0.0,79512.0,62365.05,17146.95,Divya,Debit Card,Enterprise,3.0
+ORD0186,2026-02-25,Customer_079,Mumbai,West,Keyboard,Accessories,5,2612,0.05,12407.0,7369.25,5037.75,Arun,Debit Card,Consumer,5.0
+ORD0187,2026-04-07,Customer_004,Puducherry,South,Keyboard,Accessories,5,2348,0.05,11153.0,6739.21,4413.79,Divya,UPI,Consumer,4.5
+ORD0188,2026-04-26,Customer_063,Delhi,North,Desk,Furniture,4,12112,0.1,43603.2,30805.22,12797.98,Sneha,Net Banking,Enterprise,4.0
+ORD0189,2026-07-02,Customer_002,Pune,West,Desk,Furniture,3,12328,0.15,31436.4,23768.04,7668.36,Sneha,Debit Card,Consumer,4.5
+ORD0190,2026-01-13,Customer_085,Chennai,South,Office Chair,Furniture,6,9134,0.1,49323.6,30230.75,19092.85,Priya,Credit Card,Consumer,4.5
+ORD0191,2026-07-10,Customer_021,Puducherry,South,Headset,Accessories,5,2306,0.2,9224.0,6429.91,2794.09,Divya,Net Banking,Small Business,3.5
+ORD0192,2026-02-11,Customer_021,Mumbai,West,Office Chair,Furniture,4,10054,0.0,40216.0,29615.49,10600.51,Priya,Net Banking,Consumer,5.0
+ORD0193,2026-01-10,Customer_058,Chennai,South,Laptop,Electronics,1,56396,0.15,47936.6,37109.26,10827.34,Divya,Net Banking,Enterprise,3.0
+ORD0194,2026-06-22,Customer_083,Delhi,North,Desk,Furniture,2,12272,0.05,23316.8,14793.85,8522.95,Karthik,Cash,Consumer,5.0
+ORD0195,2026-06-01,Customer_017,Hyderabad,South,Desk,Furniture,5,11595,0.0,57975.0,44008.23,13966.77,Karthik,Cash,Consumer,4.5
+ORD0196,2026-01-28,Customer_051,Hyderabad,South,Webcam,Electronics,2,4174,0.2,6678.4,5429.41,1248.99,Rahul,Credit Card,Consumer,5.0
+ORD0197,2026-08-08,Customer_081,Kochi,South,Headset,Accessories,6,2316,0.0,13896.0,9474.73,4421.27,Arun,UPI,Small Business,3.5
+ORD0198,2026-04-29,Customer_062,Chennai,South,Desk,Furniture,2,11520,0.0,23040.0,14804.84,8235.16,Priya,Credit Card,Consumer,3.0
+ORD0199,2026-08-14,Customer_011,Kochi,South,Mouse,Accessories,4,1195,0.0,4780.0,3329.96,1450.04,Priya,UPI,Small Business,5.0
+ORD0200,2026-08-01,Customer_044,Pune,West,Desk,Furniture,1,12244,0.05,11631.8,7973.1,3658.7,Rahul,UPI,Consumer,4.5
+ORD0201,2026-05-29,Customer_013,Bengaluru,South,Keyboard,Accessories,2,2626,0.15,4464.2,3496.2,968.0,Sneha,Net Banking,Small Business,5.0
+ORD0202,2026-05-30,Customer_089,Pune,West,Webcam,Electronics,6,4353,0.1,23506.2,17335.33,6170.87,Sneha,Cash,Consumer,3.5
+ORD0203,2026-03-29,Customer_044,Delhi,North,Headset,Accessories,2,2061,0.1,3709.8,2233.48,1476.32,Karthik,Debit Card,Consumer,5.0
+ORD0204,2026-04-18,Customer_025,Delhi,North,Headset,Accessories,1,2202,0.0,2202.0,1575.76,626.24,Karthik,Credit Card,Small Business,4.5
+ORD0205,2026-01-10,Customer_021,Kochi,South,Webcam,Electronics,1,4362,0.15,3707.7,2397.76,1309.94,Sneha,Debit Card,Enterprise,3.5
+ORD0206,2026-02-23,Customer_012,Bengaluru,South,Monitor,Electronics,1,17640,0.05,16758.0,11827.77,4930.23,Arun,UPI,Small Business,5.0
+ORD0207,2026-04-11,Customer_058,Hyderabad,South,Headset,Accessories,1,2262,0.1,2035.8,1592.14,443.66,Divya,Net Banking,Small Business,4.0
+ORD0208,2026-07-21,Customer_038,Mumbai,West,Webcam,Electronics,6,4262,0.05,24293.4,16495.93,7797.47,Sneha,Cash,Consumer,4.5
+ORD0209,2026-07-05,Customer_055,Mumbai,West,Headset,Accessories,4,2165,0.15,7361.0,5170.56,2190.44,Divya,Cash,Small Business,4.5
+ORD0210,2026-07-30,Customer_022,Delhi,North,Webcam,Electronics,2,4266,0.1,7678.8,4495.97,3182.83,Karthik,Cash,Small Business,4.0
+ORD0211,2026-07-02,Customer_055,Pune,West,Monitor,Electronics,6,17164,0.15,87536.4,61701.89,25834.51,Arun,Credit Card,Enterprise,4.0
+ORD0212,2026-06-10,Customer_017,Mumbai,West,Mouse,Accessories,1,1218,0.1,1096.2,898.45,197.75,Sneha,Cash,Enterprise,5.0
+ORD0213,2026-03-02,Customer_010,Kochi,South,Keyboard,Accessories,7,2463,0.15,14654.85,9849.82,4805.03,Priya,Debit Card,Consumer,4.5
+ORD0214,2026-09-02,Customer_019,Hyderabad,South,Keyboard,Accessories,1,2534,0.05,2407.3,1799.31,607.99,Priya,Debit Card,Small Business,5.0
+ORD0215,2026-09-18,Customer_100,Kochi,South,Monitor,Electronics,3,17645,0.05,50288.25,34971.33,15316.92,Sneha,Credit Card,Small Business,4.0
+ORD0216,2026-06-23,Customer_060,Pune,West,Desk,Furniture,7,12492,0.05,83071.8,62726.02,20345.78,Divya,Cash,Consumer,4.5
+ORD0217,2026-08-08,Customer_007,Pune,West,Desk,Furniture,4,12813,0.2,41001.6,24459.5,16542.1,Rahul,Cash,Small Business,3.0
+ORD0218,2026-08-16,Customer_056,Puducherry,South,Webcam,Electronics,2,4046,0.1,7282.8,5010.11,2272.69,Rahul,Cash,Small Business,4.5
+ORD0219,2026-06-09,Customer_075,Delhi,North,Monitor,Electronics,3,16961,0.05,48338.85,32805.79,15533.06,Divya,Net Banking,Small Business,4.0
+ORD0220,2026-05-11,Customer_087,Mumbai,West,Monitor,Electronics,4,18828,0.1,67780.8,47356.78,20424.02,Priya,Net Banking,Consumer,5.0
+ORD0221,2026-04-27,Customer_068,Bengaluru,South,Keyboard,Accessories,3,2688,0.1,7257.6,4818.19,2439.41,Priya,UPI,Enterprise,3.5
+ORD0222,2026-06-18,Customer_039,Hyderabad,South,Office Chair,Furniture,7,9568,0.2,53580.8,34001.21,19579.59,Sneha,UPI,Consumer,4.0
+ORD0223,2026-04-22,Customer_057,Pune,West,Monitor,Electronics,6,17211,0.15,87776.1,59939.78,27836.32,Priya,Credit Card,Small Business,3.5
+ORD0224,2026-02-28,Customer_010,Puducherry,South,Webcam,Electronics,3,4301,0.05,12257.85,7292.75,4965.1,Rahul,Debit Card,Enterprise,4.5
+ORD0225,2026-08-20,Customer_085,Delhi,North,Laptop,Electronics,7,58274,0.05,387522.1,295300.37,92221.73,Sneha,Cash,Small Business,4.5
+ORD0226,2026-09-05,Customer_003,Chennai,South,Keyboard,Accessories,5,2480,0.2,9920.0,7591.61,2328.39,Divya,UPI,Small Business,3.0
+ORD0227,2026-07-16,Customer_051,Hyderabad,South,Mouse,Accessories,3,1124,0.1,3034.8,2358.96,675.84,Rahul,Cash,Small Business,4.0
+ORD0228,2026-08-26,Customer_082,Delhi,North,Webcam,Electronics,4,4396,0.05,16704.8,12232.92,4471.88,Priya,Cash,Small Business,5.0
+ORD0229,2026-08-08,Customer_001,Kochi,South,Mouse,Accessories,2,1164,0.15,1978.8,1578.04,400.76,Karthik,Cash,Enterprise,4.0
+ORD0230,2026-01-16,Customer_001,Hyderabad,South,Headset,Accessories,4,2305,0.2,7376.0,5794.95,1581.05,Karthik,Net Banking,Consumer,3.5
+ORD0231,2026-01-25,Customer_003,Kochi,South,Office Chair,Furniture,5,9230,0.2,36920.0,30095.26,6824.74,Arun,Cash,Consumer,4.5
+ORD0232,2026-05-14,Customer_083,Chennai,South,Mouse,Accessories,2,1144,0.05,2173.6,1768.51,405.09,Divya,Cash,Consumer,4.0
+ORD0233,2026-03-17,Customer_092,Hyderabad,South,Keyboard,Accessories,2,2628,0.05,4993.2,3324.83,1668.37,Sneha,Credit Card,Consumer,4.0
+ORD0234,2026-03-16,Customer_057,Delhi,North,Mouse,Accessories,2,1123,0.0,2246.0,1379.21,866.79,Sneha,UPI,Consumer,4.0
+ORD0235,2026-03-07,Customer_099,Bengaluru,South,Mouse,Accessories,3,1265,0.0,3795.0,2229.44,1565.56,Divya,UPI,Consumer,4.5
+ORD0236,2026-05-23,Customer_063,Pune,West,Webcam,Electronics,7,4051,0.1,25521.3,19054.1,6467.2,Karthik,Debit Card,Consumer,4.5
+ORD0237,2026-09-09,Customer_077,Hyderabad,South,Headset,Accessories,5,2253,0.15,9575.25,7555.73,2019.52,Priya,Debit Card,Consumer,4.5
+ORD0238,2026-04-10,Customer_072,Pune,West,Office Chair,Furniture,3,8740,0.0,26220.0,17660.28,8559.72,Sneha,Debit Card,Enterprise,4.0
+ORD0239,2026-04-12,Customer_087,Bengaluru,South,Office Chair,Furniture,7,8908,0.05,59238.2,34955.63,24282.57,Sneha,UPI,Enterprise,4.5
+ORD0240,2026-03-04,Customer_073,Pune,West,Office Chair,Furniture,3,9995,0.1,26986.5,21089.16,5897.34,Rahul,Cash,Enterprise,5.0
+ORD0241,2026-09-22,Customer_064,Puducherry,South,Laptop,Electronics,4,56188,0.05,213514.4,135032.14,78482.26,Arun,Cash,Consumer,3.5
+ORD0242,2026-03-09,Customer_092,Hyderabad,South,Office Chair,Furniture,3,8852,0.0,26556.0,20056.66,6499.34,Priya,UPI,Consumer,4.5
+ORD0243,2026-06-07,Customer_012,Chennai,South,Office Chair,Furniture,6,10096,0.0,60576.0,36282.15,24293.85,Rahul,Debit Card,Small Business,4.0
+ORD0244,2026-07-20,Customer_061,Chennai,South,Monitor,Electronics,5,18061,0.0,90305.0,70395.42,19909.58,Arun,Cash,Enterprise,4.5
+ORD0245,2026-03-17,Customer_046,Puducherry,South,Laptop,Electronics,2,58335,0.05,110836.5,78049.64,32786.86,Arun,Debit Card,Small Business,4.0
+ORD0246,2026-05-12,Customer_055,Hyderabad,South,Mouse,Accessories,5,1136,0.15,4828.0,3316.16,1511.84,Divya,Cash,Small Business,5.0
+ORD0247,2026-09-14,Customer_072,Chennai,South,Mouse,Accessories,5,1290,0.0,6450.0,4161.39,2288.61,Sneha,UPI,Small Business,4.0
+ORD0248,2026-04-03,Customer_099,Chennai,South,Laptop,Electronics,5,54757,0.0,273785.0,167996.06,105788.94,Sneha,Debit Card,Consumer,4.0
+ORD0249,2026-03-31,Customer_039,Hyderabad,South,Mouse,Accessories,1,1203,0.0,1203.0,699.95,503.05,Karthik,Net Banking,Consumer,4.0
+ORD0250,2026-02-10,Customer_017,Chennai,South,Webcam,Electronics,6,4130,0.0,24780.0,16024.66,8755.34,Karthik,Debit Card,Enterprise,5.0
+ORD0251,2026-05-07,Customer_046,Mumbai,West,Desk,Furniture,7,13248,0.05,88099.2,65945.96,22153.24,Karthik,UPI,Enterprise,5.0
+ORD0252,2026-09-07,Customer_069,Delhi,North,Mouse,Accessories,5,1241,0.1,5584.5,3653.66,1930.84,Arun,Debit Card,Small Business,5.0
+ORD0253,2026-06-10,Customer_036,Bengaluru,South,Desk,Furniture,6,12015,0.0,72090.0,52258.83,19831.17,Priya,Net Banking,Enterprise,4.5
+ORD0254,2026-09-15,Customer_063,Chennai,South,Desk,Furniture,4,12599,0.15,42836.6,29001.13,13835.47,Karthik,UPI,Small Business,4.0
+ORD0255,2026-02-08,Customer_028,Chennai,South,Monitor,Electronics,3,18269,0.0,54807.0,40155.06,14651.94,Rahul,Cash,Small Business,5.0
+ORD0256,2026-09-25,Customer_035,Chennai,South,Keyboard,Accessories,5,2660,0.0,13300.0,9418.42,3881.58,Rahul,UPI,Enterprise,3.5
+ORD0257,2026-04-17,Customer_018,Delhi,North,Headset,Accessories,7,2039,0.0,14273.0,10191.98,4081.02,Divya,Debit Card,Consumer,4.0
+ORD0258,2026-07-14,Customer_028,Hyderabad,South,Desk,Furniture,1,12112,0.1,10900.8,7490.38,3410.42,Divya,UPI,Enterprise,5.0
+ORD0259,2026-06-16,Customer_034,Chennai,South,Desk,Furniture,3,12664,0.05,36092.4,26140.2,9952.2,Divya,Net Banking,Enterprise,4.5
+ORD0260,2026-05-06,Customer_011,Puducherry,South,Mouse,Accessories,5,1274,0.05,6051.5,3734.2,2317.3,Arun,UPI,Small Business,3.0
+ORD0261,2026-04-23,Customer_050,Delhi,North,Webcam,Electronics,5,4220,0.15,17935.0,12899.81,5035.19,Karthik,Debit Card,Enterprise,4.5
+ORD0262,2026-02-20,Customer_050,Bengaluru,South,Keyboard,Accessories,5,2453,0.0,12265.0,7204.82,5060.18,Sneha,Debit Card,Consumer,4.0
+ORD0263,2026-02-04,Customer_087,Mumbai,West,Desk,Furniture,5,12078,0.15,51331.5,31203.05,20128.45,Sneha,Cash,Small Business,5.0
+ORD0264,2026-08-12,Customer_022,Mumbai,West,Mouse,Accessories,1,1292,0.0,1292.0,1047.39,244.61,Divya,Net Banking,Consumer,4.0
+ORD0265,2026-02-11,Customer_098,Hyderabad,South,Laptop,Electronics,1,55283,0.0,55283.0,35340.09,19942.91,Karthik,Debit Card,Small Business,5.0
+ORD0266,2026-04-02,Customer_063,Hyderabad,South,Laptop,Electronics,5,53613,0.0,268065.0,217652.74,50412.26,Karthik,Debit Card,Consumer,4.5
+ORD0267,2026-08-02,Customer_024,Kochi,South,Desk,Furniture,2,12477,0.05,23706.3,19404.17,4302.13,Priya,Debit Card,Consumer,5.0
+ORD0268,2026-03-05,Customer_091,Delhi,North,Desk,Furniture,5,11795,0.15,50128.75,37627.26,12501.49,Karthik,Credit Card,Enterprise,5.0
+ORD0269,2026-07-03,Customer_020,Mumbai,West,Office Chair,Furniture,5,9436,0.0,47180.0,35809.92,11370.08,Arun,Credit Card,Small Business,4.5
+ORD0270,2026-07-02,Customer_100,Delhi,North,Laptop,Electronics,3,54671,0.2,131210.4,91324.77,39885.63,Sneha,Debit Card,Consumer,5.0
+ORD0271,2026-08-07,Customer_082,Hyderabad,South,Office Chair,Furniture,7,9327,0.05,62024.55,43302.94,18721.61,Divya,Debit Card,Enterprise,4.5
+ORD0272,2026-08-13,Customer_096,Puducherry,South,Desk,Furniture,7,12647,0.2,70823.2,44485.04,26338.16,Rahul,Debit Card,Enterprise,3.5
+ORD0273,2026-08-02,Customer_043,Pune,West,Headset,Accessories,5,2365,0.0,11825.0,8941.68,2883.32,Rahul,Credit Card,Small Business,4.5
+ORD0274,2026-02-26,Customer_094,Pune,West,Webcam,Electronics,6,4297,0.1,23203.8,15314.92,7888.88,Rahul,Debit Card,Small Business,4.5
+ORD0275,2026-02-06,Customer_001,Chennai,South,Webcam,Electronics,2,4420,0.0,8840.0,5157.57,3682.43,Karthik,Net Banking,Consumer,4.5
+ORD0276,2026-09-17,Customer_030,Chennai,South,Mouse,Accessories,1,1251,0.15,1063.35,773.34,290.01,Sneha,Debit Card,Enterprise,3.5
+ORD0277,2026-05-03,Customer_016,Hyderabad,South,Webcam,Electronics,3,4288,0.05,12220.8,9134.58,3086.22,Priya,UPI,Enterprise,3.0
+ORD0278,2026-04-21,Customer_031,Kochi,South,Monitor,Electronics,2,17257,0.05,32788.3,20159.79,12628.51,Divya,Credit Card,Enterprise,4.5
+ORD0279,2026-08-21,Customer_030,Mumbai,West,Keyboard,Accessories,7,2671,0.05,17762.15,14164.72,3597.43,Karthik,Net Banking,Consumer,4.0
+ORD0280,2026-03-15,Customer_010,Kochi,South,Keyboard,Accessories,5,2466,0.1,11097.0,6936.54,4160.46,Divya,Cash,Small Business,4.5
+ORD0281,2026-09-17,Customer_077,Delhi,North,Office Chair,Furniture,2,9825,0.15,16702.5,12910.2,3792.3,Rahul,Credit Card,Enterprise,4.5
+ORD0282,2026-03-20,Customer_057,Chennai,South,Desk,Furniture,6,13263,0.15,67641.3,50948.32,16692.98,Arun,Credit Card,Consumer,4.0
+ORD0283,2026-06-06,Customer_028,Chennai,South,Monitor,Electronics,2,17355,0.1,31239.0,18588.63,12650.37,Rahul,UPI,Consumer,5.0
+ORD0284,2026-05-21,Customer_083,Hyderabad,South,Keyboard,Accessories,3,2525,0.15,6438.75,4618.09,1820.66,Arun,Cash,Enterprise,5.0
+ORD0285,2026-06-24,Customer_023,Kochi,South,Headset,Accessories,1,2265,0.05,2151.75,1448.2,703.55,Karthik,Net Banking,Enterprise,4.5
+ORD0286,2026-07-20,Customer_021,Pune,West,Headset,Accessories,5,2364,0.1,10638.0,8597.48,2040.52,Divya,Debit Card,Enterprise,4.5
+ORD0287,2026-05-26,Customer_078,Chennai,South,Mouse,Accessories,5,1113,0.05,5286.75,4280.32,1006.43,Rahul,Cash,Consumer,4.5
+ORD0288,2026-05-17,Customer_073,Kochi,South,Mouse,Accessories,7,1251,0.05,8319.15,6466.67,1852.48,Sneha,Debit Card,Small Business,5.0
+ORD0289,2026-09-21,Customer_007,Kochi,South,Webcam,Electronics,6,4008,0.1,21643.2,15709.94,5933.26,Divya,Credit Card,Enterprise,4.0
+ORD0290,2026-01-21,Customer_099,Puducherry,South,Mouse,Accessories,6,1227,0.05,6993.9,5253.61,1740.29,Karthik,UPI,Consumer,3.5
+ORD0291,2026-04-12,Customer_024,Mumbai,West,Office Chair,Furniture,6,9524,0.0,57144.0,44601.76,12542.24,Priya,UPI,Small Business,3.0
+ORD0292,2026-01-29,Customer_043,Kochi,South,Monitor,Electronics,3,17979,0.05,51240.15,36248.57,14991.58,Arun,Cash,Small Business,4.5
+ORD0293,2026-04-02,Customer_058,Kochi,South,Mouse,Accessories,2,1234,0.05,2344.6,1795.4,549.2,Divya,Debit Card,Small Business,4.5
+ORD0294,2026-08-12,Customer_025,Kochi,South,Headset,Accessories,2,2295,0.1,4131.0,2515.16,1615.84,Arun,Credit Card,Enterprise,4.0
+ORD0295,2026-08-16,Customer_051,Delhi,North,Mouse,Accessories,1,1175,0.0,1175.0,766.04,408.96,Arun,Debit Card,Consumer,4.5
+ORD0296,2026-06-06,Customer_098,Mumbai,West,Desk,Furniture,1,12082,0.0,12082.0,7449.26,4632.74,Priya,Cash,Consumer,5.0
+ORD0297,2026-04-06,Customer_084,Mumbai,West,Desk,Furniture,4,12447,0.0,49788.0,40321.79,9466.21,Priya,Debit Card,Enterprise,5.0
+ORD0298,2026-01-26,Customer_025,Chennai,South,Webcam,Electronics,4,4386,0.0,17544.0,13230.82,4313.18,Priya,Debit Card,Consumer,4.5
+ORD0299,2026-02-18,Customer_047,Hyderabad,South,Keyboard,Accessories,3,2692,0.05,7672.2,6118.89,1553.31,Divya,Cash,Consumer,3.5
+ORD0300,2026-09-05,Customer_054,Puducherry,South,Desk,Furniture,7,12915,0.0,90405.0,55630.96,34774.04,Arun,Credit Card,Small Business,3.0
