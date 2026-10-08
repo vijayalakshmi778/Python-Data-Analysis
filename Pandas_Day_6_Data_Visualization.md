@@ -79,6 +79,12 @@ Set a clean plotting style:
 
 ```python
 sns.set_theme(style="whitegrid")
+
+"darkgrid"	Dark background grid	
+"whitegrid"	White background + grid	Data analytics / business charts
+"dark"	Dark background	Presentations
+"white"	Clean white background Professional reports
+"ticks"	Clean background with axis tick Minimal charts
 ```
 
 ---
