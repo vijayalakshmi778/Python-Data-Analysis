@@ -131,6 +131,16 @@ plt.ylabel("Net Sales")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+# kind="bar"
+
+kind="barh"
+
+kind="line"
+
+kind="pie"
+
+kind="area"
 ```
 
 ### Add values to the bars
