@@ -39,6 +39,17 @@ Set the chart style:
 
 ```python
 sns.set_theme(style="whitegrid")
+
+"darkgrid"
+
+"whitegrid"
+
+"dark"
+
+"white"
+
+"ticks"
+
 ```
 
 ---
