@@ -1,12 +1,6 @@
 # Day 6 — Six Visualizations and Complete Sales Dashboard
 
-This notebook code uses the dataset `day4_sales_analysis_merged.csv`.
-
-**Dataset columns used:** `Order_Date`, `Quantity`, `Payment_Mode`, `Region`, `Category`, `Net_Sales`, and `Profit`.
-
 ## 1. Load the dataset
-
-Upload `day4_sales_analysis_merged.csv` to Google Colab first, then run this cell.
 
 ```python
 import pandas as pd
@@ -216,13 +210,3 @@ axes[1, 2].grid(True, alpha=0.25)
 plt.tight_layout(rect=[0, 0, 1, 0.95])
 plt.show()
 ```
-
-## If the dashboard output is blank in Google Colab
-
-1. Upload `day4_sales_analysis_merged.csv` using the Files panel.
-2. Run the **Load the dataset** cell first.
-3. Run the **Complete Sales Analytics Dashboard** cell from top to bottom.
-4. Make sure the cell finishes running and check for any red error messages.
-5. Keep `plt.show()` at the end of the dashboard cell. Do not run only part of the cell.
-
-**Note:** The dashboard displays six charts in one figure; it does not create an interactive Power BI-style dashboard.
