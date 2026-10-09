@@ -6,10 +6,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load dataset
+
 df = pd.read_csv("day4_sales_analysis_merged.csv")
 
-# Clean column names and prepare data types
+
 df.columns = df.columns.str.strip()
 df["Order_Date"] = pd.to_datetime(df["Order_Date"], errors="coerce")
 
@@ -17,7 +17,7 @@ numeric_columns = ["Quantity", "Net_Sales", "Profit"]
 for column in numeric_columns:
     df[column] = pd.to_numeric(df[column], errors="coerce")
 
-# Remove rows missing fields required for the visualizations
+
 df = df.dropna(
     subset=["Order_Date", "Quantity", "Net_Sales", "Profit",
             "Category", "Region", "Payment_Mode"]
@@ -139,42 +139,26 @@ plt.show()
 
 ## 8. Complete Sales Analytics Dashboard — All Six Charts
 
-Run this **entire cell at once** after running the dataset-loading cell above. It creates one dashboard with six charts.
-
 ```python
-import matplotlib.pyplot as plt
-import pandas as pd
 
-# Prepare summaries for the dashboard
-category_sales = df.groupby("Category")["Net_Sales"].sum().sort_values(ascending=False)
-region_sales = df.groupby("Region")["Net_Sales"].sum().sort_values(ascending=False)
-monthly_sales = (
-    df.set_index("Order_Date")
-      .resample("MS")["Net_Sales"]
-      .sum()
-)
-category_profit = df.groupby("Category")["Profit"].sum().sort_values(ascending=False)
-payment_counts = df["Payment_Mode"].value_counts()
-
-# Create dashboard layout: 2 rows x 3 columns
 fig, axes = plt.subplots(2, 3, figsize=(20, 12))
 fig.suptitle("SALES ANALYTICS DASHBOARD", fontsize=22, fontweight="bold")
 
-# Chart 1: Net sales by category
+
 category_sales.plot(kind="bar", ax=axes[0, 0])
 axes[0, 0].set_title("Net Sales by Category")
 axes[0, 0].set_xlabel("Category")
 axes[0, 0].set_ylabel("Net Sales")
 axes[0, 0].tick_params(axis="x", rotation=35)
 
-# Chart 2: Net sales by region
+
 region_sales.plot(kind="bar", ax=axes[0, 1])
 axes[0, 1].set_title("Net Sales by Region")
 axes[0, 1].set_xlabel("Region")
 axes[0, 1].set_ylabel("Net Sales")
 axes[0, 1].tick_params(axis="x", rotation=0)
 
-# Chart 3: Monthly net sales trend
+
 axes[0, 2].plot(monthly_sales.index, monthly_sales.values, marker="o")
 axes[0, 2].set_title("Monthly Net Sales Trend")
 axes[0, 2].set_xlabel("Month")
@@ -182,14 +166,14 @@ axes[0, 2].set_ylabel("Net Sales")
 axes[0, 2].tick_params(axis="x", rotation=45)
 axes[0, 2].grid(True, alpha=0.3)
 
-# Chart 4: Profit by category
+
 category_profit.plot(kind="bar", ax=axes[1, 0])
 axes[1, 0].set_title("Profit by Category")
 axes[1, 0].set_xlabel("Category")
 axes[1, 0].set_ylabel("Profit")
 axes[1, 0].tick_params(axis="x", rotation=35)
 
-# Chart 5: Order count by payment mode
+
 axes[1, 1].pie(
     payment_counts.values,
     labels=payment_counts.index,
@@ -199,14 +183,14 @@ axes[1, 1].pie(
 axes[1, 1].set_title("Order Count by Payment Mode")
 axes[1, 1].axis("equal")
 
-# Chart 6: Quantity vs net sales
+
 axes[1, 2].scatter(df["Quantity"], df["Net_Sales"], alpha=0.6)
 axes[1, 2].set_title("Quantity vs Net Sales")
 axes[1, 2].set_xlabel("Quantity")
 axes[1, 2].set_ylabel("Net Sales")
 axes[1, 2].grid(True, alpha=0.25)
 
-# Improve spacing and render the complete dashboard
+
 plt.tight_layout(rect=[0, 0, 1, 0.95])
 plt.show()
 ```
